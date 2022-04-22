@@ -21,7 +21,7 @@ namespace ConsoleApp5.Repository
         {
             try
             {
-                string sql = "select [english full name] as enlish_full_name ,[arabic full name] as arabic_full_name,email,[mobile number] as mobile_number ,emirate,city,gender,[marital status] as martial_status from [hc_resume_assessmentPersonalInfo]";
+                string sql = "query";
                 IEnumerable<HC_ResumeBank> hC_ResumeBanks = await _iUnitOfWork.Connection.QueryAsync<HC_ResumeBank>(sql);
             }
             catch(Exception ex)
