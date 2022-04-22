@@ -1,0 +1,548 @@
+[
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "cvmongoid",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "iscvattached",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "isssabeneficiary",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "ismilitarycompleted",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "isdrivinglicence",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "emirateen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "emirateae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cityen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cityae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "locationen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "locationae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "iscvsummary",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "IsPod",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "rid",
+    "optional": "false",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "challengenotes",
+    "optional": "true",
+    "type": "string"
+  },  
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "jpcassessmentstatus",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "fullnameen",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "fullnameae",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "genderen",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "genderae",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "emiratesid",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "totalexperience",
+    "optional": "false",
+    "type": "int32"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "totalexperiencerange",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationgroupen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationgroupae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationtypeen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationtypeae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationmajoren",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "highesteducationmajorae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cvstatusen",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cvstatusae",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cvstatusreasonen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cvstatusreasonae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "emailid",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "mobile",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "cvcreatedon",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "yearofregistration",
+    "optional": "false",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "cvmodifiedon",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "jobseekerid",
+    "optional": "false",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "totalapplications",
+    "optional": "false",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "skills",
+    "optional": "true",
+    "type": "string[]"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "coach",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "coachen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "coachae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "adsgrating",
+    "optional": "true",
+    "type": "float"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "adsgratingen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "adsgratingae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindexscore",
+    "optional": "true",
+    "type": "float"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_confidence",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_optimism",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_growthmindset",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_achievement",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_grit",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "thrivingindex_resilience",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cognitive_detectify",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "cognitive_numerify",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "agile_overall",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "agile_english",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "officerating",
+    "optional": "true",
+    "type": "float"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "office_excel",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "office_outlook",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "office_powerpoint",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "office_word",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top1",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top1_rating",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top2",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top2_rating",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top3",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top3_rating",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top4",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top4_rating",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top5",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "career_top5_rating",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "experience_lastemployer",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "experience_lastjobtitle",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "experience_lastjobsector",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "experience_lastworkingyear",
+    "optional": "true",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "cvsummary",
+    "optional": "true",
+    "type": "string"
+  }
+]

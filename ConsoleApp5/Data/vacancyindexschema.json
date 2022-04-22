@@ -1,0 +1,175 @@
+[
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "rid",
+    "optional": "false",
+    "type": "int32"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "clientae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "clienten",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "jobtitleen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "jobtitleen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "gradeen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "gradeen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "targetdate",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "createddate",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "modifieddate",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "openings",
+    "optional": "true",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "jobcode",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "vacancystatusid",
+    "optional": "true",
+    "type": "int32"
+  }
+  ,
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "vacancystatusen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "vacancystatusae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "totalapplicants",
+    "optional": "true",
+    "type": "int32"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "totalhired",
+    "optional": "true",
+    "type": "int32"
+  }
+  ,
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "totalexpat",
+    "optional": "true",
+    "type": "int32"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "employmenttypeen",
+    "optional": "true",
+    "type": "string"
+  }
+  ,
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "employmenttypeae",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "experience",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "false",
+    "index": "true",
+    "name": "locationid",
+    "optional": "true",
+    "type": "int32"
+  }
+  ,
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "locationen",
+    "optional": "true",
+    "type": "string"
+  },
+  {
+    "facet": "true",
+    "index": "true",
+    "name": "locationae",
+    "optional": "true",
+    "type": "string"
+  }
+
+]
